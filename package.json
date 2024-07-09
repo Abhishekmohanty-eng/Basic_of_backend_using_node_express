@@ -1,0 +1,14 @@
+{
+  "name": "bd1.1_string",
+  "version": "1.0.0",
+  "description": "basic of development",
+  "main": "BD1.1 _string.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Mohanty",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
